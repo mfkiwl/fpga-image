@@ -1,0 +1,257 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : -8.897
+TNS   : -29.577
+
+Type  : Slow 1200mV 85C Model Setup 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.449
+TNS   : -36.097
+
+Type  : Slow 1200mV 85C Model Setup 'CMOS_PCLK'
+Slack : -5.336
+TNS   : -1988.679
+
+Type  : Slow 1200mV 85C Model Setup 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : -4.985
+TNS   : -9.451
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK'
+Slack : 14.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CMOS_PCLK'
+Slack : -1.290
+TNS   : -4.428
+
+Type  : Slow 1200mV 85C Model Hold 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.770
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CMOS_PCLK'
+Slack : -0.177
+TNS   : -3.812
+
+Type  : Slow 1200mV 85C Model Recovery 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 3.004
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 5.322
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CMOS_PCLK'
+Slack : -0.430
+TNS   : -17.258
+
+Type  : Slow 1200mV 85C Model Removal 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 1.630
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 1.975
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CMOS_PCLK'
+Slack : -3.201
+TNS   : -769.361
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 4.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK'
+Slack : 9.743
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 19.698
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4339.983
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : -8.145
+TNS   : -26.929
+
+Type  : Slow 1200mV 0C Model Setup 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.128
+TNS   : -33.639
+
+Type  : Slow 1200mV 0C Model Setup 'CMOS_PCLK'
+Slack : -4.861
+TNS   : -1823.063
+
+Type  : Slow 1200mV 0C Model Setup 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : -4.502
+TNS   : -8.471
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK'
+Slack : 14.772
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CMOS_PCLK'
+Slack : -1.227
+TNS   : -4.583
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.714
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CMOS_PCLK'
+Slack : -0.157
+TNS   : -4.621
+
+Type  : Slow 1200mV 0C Model Recovery 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 3.590
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 5.673
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CMOS_PCLK'
+Slack : -0.411
+TNS   : -17.092
+
+Type  : Slow 1200mV 0C Model Removal 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 1.491
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 1.802
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CMOS_PCLK'
+Slack : -3.201
+TNS   : -769.812
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 4.715
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK'
+Slack : 9.754
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 19.674
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4339.951
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : -3.381
+TNS   : -10.955
+
+Type  : Fast 1200mV 0C Model Setup 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.814
+TNS   : -10.669
+
+Type  : Fast 1200mV 0C Model Setup 'CMOS_PCLK'
+Slack : -1.715
+TNS   : -576.632
+
+Type  : Fast 1200mV 0C Model Setup 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : -1.708
+TNS   : -3.200
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK'
+Slack : 17.629
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CMOS_PCLK'
+Slack : -0.757
+TNS   : -3.268
+
+Type  : Fast 1200mV 0C Model Hold 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CMOS_PCLK'
+Slack : 0.442
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 6.694
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 7.976
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CMOS_PCLK'
+Slack : -0.317
+TNS   : -16.574
+
+Type  : Fast 1200mV 0C Model Removal 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 0.707
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 0.891
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CMOS_PCLK'
+Slack : -3.000
+TNS   : -731.041
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[1]'
+Slack : 4.734
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK'
+Slack : 9.263
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u_system_ctrl|u_sdram_pll|altpll_component|pll|clk[0]'
+Slack : 19.737
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'phat_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4340.051
+TNS   : 0.000
+
+------------------------------------------------------------

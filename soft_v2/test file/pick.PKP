@@ -1,0 +1,31 @@
+LABCENTER PROTEUS PICK AND PLACE FILE
+=====================================
+
+Component positions for slaver.LYT
+
+Fields: Part ID, Value, Package, Layer, Rotation, X, Y
+Units:  Rotation - degrees, X, Y  - thou
+Notes:  The X, Y value is the centre of package as drawn in ARES.
+        The origin for these values is the Output Origin.
+        The values are a guide only and must be checked manually when
+        setting up automatic insertion equipment.
+
+"RFRX","","SIL-100-04",TOP,90,319,-1515
+"R1","200K","RES40",TOP,-90,2306,-1952
+"R2","150","RES40",TOP,-90,994,-2400
+"PT2272","","DIL18",TOP,-90,1584,-2093
+"D1","LED-RED","LED",TOP,90,986.5,-1590.5
+"DFF","","DIL14",TOP,-90,2959,-2063
+"R3","150","RES40",TOP,180,1574,-918
+"R4","150","RES40",TOP,180,1584,-358
+"D2","LED-RED","LED",TOP,180,2221.5,-920.5
+"D3","LED-RED","LED",TOP,180,2236.5,-360.5
+"R5","1k","RES40",TOP,0,2969,-923
+"R6","10k","RES40",TOP,180,2919,-318
+"RL1","G5CLE-1-DC12","RLY-OMRON-C4",TOP,0,4329.75,-2424.89
+"Q10","PN2222","TO92",TOP,-90,3539,-643
+"DIODE","","DIODE40",TOP,90,3464,-2443
+"T3","","TBLOCK-I2",TOP,90,4544,-1463
+"T2","","TBLOCK-I2",TOP,90,4539,-573
+"T1","","TBLOCK-I2",TOP,-90,324,-2433
+"TR1","","SW3",TOP,0,1067,-710.5

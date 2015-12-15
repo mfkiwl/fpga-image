@@ -1,0 +1,87 @@
+`timescale 1ns / 1ps
+
+module video_binary(
+			input 			clk,
+			input 			clk_enable,
+			input 			frame_enable,
+			input   [15:0] pixel_color,
+			input 			binary_enable,
+			
+			output	clk_out,
+			output	clk_out_enable,
+			output	frame_out_enable,
+			output	[15:0] pixel_out_color,
+				/////
+			output [9:0]	current_pos_x,
+			output [9:0]	current_pos_y
+			);
+
+
+//////////////////xac dinh trong tam va goc do//////////////////////////////////
+reg [9:0] vitrihientai_x;
+reg [9:0] vitrihientai_y;
+
+assign current_pos_x = vitrihientai_x;
+assign current_pos_y = vitrihientai_y;
+
+//////////////////////////////////////////////////////////////////////////
+reg	clk_out_r,
+reg	clk_out_enable_r,
+reg	frame_out_enable_r,
+reg	[15:0] pixel_out_color_r,
+
+assign clk_out = clk_out_r;
+assign clk_out_enable = clk_out_enable_r;
+assign frame_out_enable = frame_out_enable_r;
+assign pixel_out_color = pixel_out_color_r;
+
+always @ (posedge clk)
+begin
+	if(frame_enable == 1'b0)
+		begin
+			vitrihientai_x <= 10'h000;
+			vitrihientai_y <= 10'h000;
+		end
+	else
+		begin
+			if (binary_enable == 1'b0)
+				begin
+					if ((pixel_color[15] == 1'b1) && (pixel_color[10] == 1'b1) && (pixel_color[4] == 1'b1))
+						begin
+							pixel_out_color_r <= 16'hffff;
+						end
+					else
+						begin
+							pixel_out_color_r <= 16'h0000;
+						end
+				end
+			else
+				begin
+					pixel_out_color_r <= pixel_color;
+				end
+				
+			if((vitrihientai_x < 639) && (vitrihientai_y < 480))
+				begin
+					vitrihientai_x <= vitrihientai_x + 1'b1;
+					vitrihientai_y <= vitrihientai_y;
+				end
+			else if((vitrihientai_x == 639) && (vitrihientai_y < 480))
+				begin
+					vitrihientai_x <= 10'h000;
+					vitrihientai_y <= vitrihientai_y + 1'b1;
+				end
+			else
+				begin
+					vitrihientai_x <= vitrihientai_x;
+					vitrihientai_y <= vitrihientai_y;
+				end
+		end
+end
+
+always @ (posedge clk)
+begin
+	clk_out_r <= clk;
+	clk_out_enable_r <= clk_enable;
+	frame_out_enable_r <= frame_enable;
+end
+endmodule

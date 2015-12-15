@@ -1,0 +1,264 @@
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\Emgu.CV.dll
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\Emgu.CV.UI.dll
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\Emgu.Util.dll
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\ZedGraph.dll
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\Emgu.CV.xml
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\Emgu.CV.UI.xml
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\bin\Debug\Emgu.Util.xml
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\obj\x86\Debug\cameracap.Form1.resources
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\obj\x86\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\obj\x86\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\camera\camera\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\obj\x86\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\obj\x86\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\bin\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\bin\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\obj\x86\Debug\cameracap.Form1.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+D:\!desktop\luan_van\111coding\software\_smt_control_1\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\bin\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\bin\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.Form1.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\bin\Debug\AForge.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\bin\Debug\AForge.Imaging.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\bin\Debug\AForge.Math.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.BlobsBrowser.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_3\cameracap\obj\x86\Debug\cameracap.MainForm.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\bin\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\bin\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\bin\Debug\AForge.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\bin\Debug\AForge.Imaging.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\bin\Debug\AForge.Math.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.BlobsBrowser.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.Form1.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.Form2.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.MainForm.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_4\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\obj\x86\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\obj\x86\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\bin\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\bin\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\bin\Debug\AForge.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\bin\Debug\AForge.Imaging.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\bin\Debug\AForge.Math.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\obj\x86\Debug\cameracap.Form1.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\obj\x86\Debug\cameracap.Form2.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_5\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\obj\x86\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\obj\x86\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\bin\Debug\cameracap.exe
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\bin\Debug\cameracap.pdb
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\bin\Debug\AForge.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\bin\Debug\AForge.Imaging.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\bin\Debug\AForge.Math.dll
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\obj\x86\Debug\cameracap.Form1.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\obj\x86\Debug\cameracap.Form2.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+D:\!desktop\luan_van\111coding\software\_smt_control_6\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\_smt_control_6\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\soft_v1\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\soft_v1\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\soft_v1\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\soft_v1\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\soft_v1\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\soft_v1\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\soft_v1\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\soft_v1\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\soft_v1\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\soft_v1\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\soft_v1\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\soft_v1\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\success_2 - Copy (4)\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\code_50percen\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_1\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_2\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_3\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_3\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_4\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_4\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_5\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_5\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_6\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_6\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_7\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_7\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_8\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_8\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_2710_1\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_2710_2\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_2710_3\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_2710_3 - Copy\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_2710_4\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+E:\ok\fpga_2710_5\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+E:\ok\fpga_2710_5\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_final1\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_final2\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_final4\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final4\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\obj\x86\Debug\cameracap.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\obj\x86\Debug\cameracap.Form1.resources
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\obj\x86\Debug\cameracap.Form2.resources
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\obj\x86\Debug\cameracap.Properties.Resources.resources
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\obj\x86\Debug\cameracap.csproj.GenerateResource.Cache
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\bin\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\bin\Debug\cameracap.pdb
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\bin\Debug\AForge.dll
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\bin\Debug\AForge.Imaging.dll
+C:\Users\WIN7\Desktop\fpga_final5\soft_v2\cameracap\bin\Debug\AForge.Math.dll
+C:\Users\WIN7\Desktop\fpga_final7\soft_v2\cameracap\obj\x86\Debug\cameracap.exe
+C:\Users\WIN7\Desktop\fpga_final7\soft_v2\cameracap\obj\x86\Debug\cameracap.pdb

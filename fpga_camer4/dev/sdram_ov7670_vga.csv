@@ -1,0 +1,83 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\Users\WIN7\Desktop\fpga_final7\fpga_camer4\dev\sdram_ov7670_vga.csv
+# Generated on: Sun Dec 13 20:04:11 2015
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair
+BUTTON_1,Input,PIN_88,5,B5_N0,PIN_88,,,,,
+BUTTON_2,Input,PIN_89,5,B5_N0,PIN_89,,,,,
+BUTTON_3,Input,PIN_90,6,B6_N0,PIN_90,,,,,
+CLOCK,Input,PIN_23,1,B1_N0,PIN_23,,,,,
+CMOS_DB[0],Input,PIN_125,7,B7_N0,PIN_125,,,,,
+CMOS_DB[1],Input,PIN_126,7,B7_N0,PIN_126,,,,,
+CMOS_DB[2],Input,PIN_127,7,B7_N0,PIN_127,,,,,
+CMOS_DB[3],Input,PIN_128,8,B8_N0,PIN_128,,,,,
+CMOS_DB[4],Input,PIN_138,8,B8_N0,PIN_138,,,,,
+CMOS_DB[5],Input,PIN_141,8,B8_N0,PIN_141,,,,,
+CMOS_DB[6],Input,PIN_142,8,B8_N0,PIN_142,,,,,
+CMOS_DB[7],Input,PIN_143,8,B8_N0,PIN_143,,,,,
+CMOS_HREF,Input,PIN_2,1,B1_N0,PIN_2,,,,,
+CMOS_PCLK,Input,PIN_1,1,B1_N0,PIN_1,,,,,
+CMOS_SCLK,Output,PIN_10,1,B1_N0,PIN_10,,,,,
+CMOS_SDAT,Bidir,PIN_7,1,B1_N0,PIN_7,,,,,
+CMOS_VSYNC,Input,PIN_3,1,B1_N0,PIN_3,,,,,
+CMOS_XCLK,Output,PIN_144,8,B8_N0,PIN_144,,,,,
+S_A[0],Output,PIN_76,5,B5_N0,PIN_76,,,,,
+S_A[1],Output,PIN_77,5,B5_N0,PIN_77,,,,,
+S_A[2],Output,PIN_80,5,B5_N0,PIN_80,,,,,
+S_A[3],Output,PIN_83,5,B5_N0,PIN_83,,,,,
+S_A[4],Output,PIN_68,4,B4_N0,PIN_68,,,,,
+S_A[5],Output,PIN_67,4,B4_N0,PIN_67,,,,,
+S_A[6],Output,PIN_66,4,B4_N0,PIN_66,,,,,
+S_A[7],Output,PIN_65,4,B4_N0,PIN_65,,,,,
+S_A[8],Output,PIN_64,4,B4_N0,PIN_64,,,,,
+S_A[9],Output,PIN_60,4,B4_N0,PIN_60,,,,,
+S_A[10],Output,PIN_75,5,B5_N0,PIN_75,,,,,
+S_A[11],Output,PIN_59,4,B4_N0,PIN_59,,,,,
+S_BA[0],Output,PIN_73,5,B5_N0,PIN_73,,,,,
+S_BA[1],Output,PIN_74,5,B5_N0,PIN_74,,,,,
+S_CKE,Output,PIN_58,4,B4_N0,PIN_58,,,,,
+S_CLK,Output,PIN_43,3,B3_N0,PIN_43,,,,,
+S_DB[0],Bidir,PIN_28,2,B2_N0,PIN_28,,,,,
+S_DB[1],Bidir,PIN_30,2,B2_N0,PIN_30,,,,,
+S_DB[2],Bidir,PIN_31,2,B2_N0,PIN_31,,,,,
+S_DB[3],Bidir,PIN_32,2,B2_N0,PIN_32,,,,,
+S_DB[4],Bidir,PIN_33,2,B2_N0,PIN_33,,,,,
+S_DB[5],Bidir,PIN_34,2,B2_N0,PIN_34,,,,,
+S_DB[6],Bidir,PIN_38,3,B3_N0,PIN_38,,,,,
+S_DB[7],Bidir,PIN_39,3,B3_N0,PIN_39,,,,,
+S_DB[8],Bidir,PIN_54,4,B4_N0,PIN_54,,,,,
+S_DB[9],Bidir,PIN_53,3,B3_N0,PIN_53,,,,,
+S_DB[10],Bidir,PIN_52,3,B3_N0,PIN_52,,,,,
+S_DB[11],Bidir,PIN_51,3,B3_N0,PIN_51,,,,,
+S_DB[12],Bidir,PIN_50,3,B3_N0,PIN_50,,,,,
+S_DB[13],Bidir,PIN_49,3,B3_N0,PIN_49,,,,,
+S_DB[14],Bidir,PIN_46,3,B3_N0,PIN_46,,,,,
+S_DB[15],Bidir,PIN_44,3,B3_N0,PIN_44,,,,,
+S_DQM[0],Output,PIN_42,3,B3_N0,PIN_42,,,,,
+S_DQM[1],Output,PIN_55,4,B4_N0,PIN_55,,,,,
+S_NCAS,Output,PIN_70,4,B4_N0,PIN_70,,,,,
+S_NCS,Output,PIN_72,4,B4_N0,PIN_72,,,,,
+S_NRAS,Output,PIN_71,4,B4_N0,PIN_71,,,,,
+S_NWE,Output,PIN_69,4,B4_N0,PIN_69,,,,,
+VGA_BLUE,Output,PIN_104,6,B6_N0,PIN_104,,,,,
+VGA_GREEN,Output,PIN_105,6,B6_N0,PIN_105,,,,,
+VGA_HSYNC,Output,PIN_101,6,B6_N0,PIN_101,,,,,
+VGA_RED,Output,PIN_106,6,B6_N0,PIN_106,,,,,
+VGA_VSYNC,Output,PIN_103,6,B6_N0,PIN_103,,,,,
+rs232_tx,Output,PIN_114,7,B7_N0,PIN_114,,,,,

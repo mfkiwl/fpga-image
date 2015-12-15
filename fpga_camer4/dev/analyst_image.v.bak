@@ -1,0 +1,351 @@
+`timescale 1ns / 1ps
+
+module analyst_image(
+			input 	clk,
+			input 	rx_data,
+			input 	uart_enw	,
+			input 	new_frm,
+				/////
+			input [9:0]	current_pos_x,
+			input [9:0]	current_pos_y,
+				/////
+			output [9:0]	top_pos_x,
+			output [9:0]	top_pos_y,
+			output [9:0]	bottom_pos_x,
+			output [9:0]	bottom_pos_y,
+			output [9:0]	left_pos_x,
+			output [9:0]	left_pos_y,
+			output [9:0]	right_pos_x,
+			output [9:0]	right_pos_y,
+			output [11:0]	centre_pos_x,
+			output [11:0]	centre_pos_y,
+			output [9:0]	angle_x,
+			output [9:0]	angle_y,
+			output chieu_xoay
+			);
+
+reg wr_load_r1 = 0;
+reg wr_load_r2 = 0;	
+always@(posedge clk)
+begin
+	wr_load_r1 <= new_frm;
+	wr_load_r2 <= wr_load_r1;
+end
+wire	wr_load_flag = ~wr_load_r2 & wr_load_r1;
+
+
+
+
+
+
+
+reg [9:0]	top_pos_x_r = 10'd639;
+reg [9:0]	top_pos_y_r = 10'd479;
+
+always@(posedge clk)
+begin
+	if(wr_load_flag == 1)
+		begin
+			top_pos_x_r <= 10'd639;
+			top_pos_y_r <= 10'd479;	
+		end
+	else
+		begin
+			if((uart_enw == 1'b1) && (rx_data == 1'b1))
+				begin		
+					if ((current_pos_x > 10'd234)&&(current_pos_y > 10'd1))
+						begin	
+							////top/////////////
+							if (top_pos_y_r > current_pos_y)
+								begin
+									top_pos_x_r <= current_pos_x - 10'd235;
+									top_pos_y_r <= current_pos_y;
+								end
+							else if((top_pos_y_r == current_pos_y) && (top_pos_x_r > current_pos_x - 10'd235))
+								begin
+									top_pos_x_r <= current_pos_x - 10'd235;
+									top_pos_y_r <= current_pos_y;
+								end
+							else
+								begin
+									top_pos_x_r <= top_pos_x_r;
+									top_pos_y_r <= top_pos_y_r;
+								end
+						end
+					else if ((current_pos_x <= 10'd234)&&(current_pos_y > 10'd1))
+						begin	
+							////top/////////////
+							if (top_pos_y_r > current_pos_y - 10'd1)
+								begin
+									top_pos_x_r <= current_pos_x + 10'd405;
+									top_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else if((top_pos_y_r == current_pos_y - 10'd1) && (top_pos_x_r > current_pos_x + 10'd405))
+								begin
+									top_pos_x_r <= current_pos_x + 10'd405;
+									top_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else
+								begin
+									top_pos_x_r <= top_pos_x_r;
+									top_pos_y_r <= top_pos_y_r;
+								end
+						end
+					else 					
+						begin
+							top_pos_x_r <= top_pos_x_r;
+							top_pos_y_r <= top_pos_y_r;
+						end
+				end
+			else
+				begin
+					top_pos_x_r <= top_pos_x_r;
+					top_pos_y_r <= top_pos_y_r;					
+				end
+		end
+end
+assign	top_pos_x = top_pos_x_r;
+assign	top_pos_y = top_pos_y_r;	
+
+/////////////////////////////////////////////////////////////////////////////////
+reg [9:0]	bottom_pos_x_r = 10'd0;
+reg [9:0]	bottom_pos_y_r = 10'd0;	
+
+always@(posedge clk)
+begin
+	if(wr_load_flag == 1)
+		begin
+			bottom_pos_x_r <= 10'd0;
+			bottom_pos_y_r <= 10'd0;
+		end
+	else
+		begin
+			if((uart_enw == 1'b1) && (rx_data == 1'b1))
+				begin
+					if ((current_pos_x > 10'd234)&&(current_pos_y > 10'd1))
+						begin	
+							////bottom/////////////
+							if (bottom_pos_y_r < current_pos_y)
+								begin
+									bottom_pos_x_r <= current_pos_x - 10'd235;
+									bottom_pos_y_r <= current_pos_y;
+								end
+							else if((bottom_pos_y_r == current_pos_y) && (bottom_pos_x_r < current_pos_x - 10'd235))
+								begin
+									bottom_pos_x_r <= current_pos_x - 10'd235;
+									bottom_pos_y_r <= current_pos_y;
+								end
+							else
+								begin
+									bottom_pos_x_r <= bottom_pos_x_r;
+									bottom_pos_y_r <= bottom_pos_y_r;
+								end
+						end
+					else if ((current_pos_x <= 10'd234)&&(current_pos_y > 10'd1))
+						begin	
+							////bottom/////////////
+							if (bottom_pos_y_r < current_pos_y - 10'd1)
+								begin
+									bottom_pos_x_r <= current_pos_x + 10'd405;
+									bottom_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else if((bottom_pos_y_r == current_pos_y - 10'd1) && (bottom_pos_x_r < current_pos_x + 10'd405))
+								begin
+									bottom_pos_x_r <= current_pos_x + 10'd405;
+									bottom_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else
+								begin
+									bottom_pos_x_r <= bottom_pos_x_r;
+									bottom_pos_y_r <= bottom_pos_y_r;
+								end
+						end
+					else
+						begin
+							bottom_pos_x_r <= bottom_pos_x_r;
+							bottom_pos_y_r <= bottom_pos_y_r;
+						end
+				end
+			else
+				begin
+					bottom_pos_x_r <= bottom_pos_x_r;
+					bottom_pos_y_r <= bottom_pos_y_r;				
+				end
+		end
+end
+assign	bottom_pos_x = bottom_pos_x_r;
+assign	bottom_pos_y = bottom_pos_y_r;
+//////////////////////////////////////////////////////////////////////////
+reg [9:0]	left_pos_x_r = 10'd639;
+reg [9:0]	left_pos_y_r = 10'd0;	
+
+always@(posedge clk)
+begin
+	if(wr_load_flag == 1)
+		begin
+			left_pos_x_r <= 10'd639;
+			left_pos_y_r <= 10'd0;		
+		end
+	else
+		begin
+			if((uart_enw == 1'b1) && (rx_data == 1'b1))
+				begin
+					if ((current_pos_x > 10'd234)&&(current_pos_y > 10'd1))
+						begin																								
+							////left////////////
+							if (left_pos_x_r > current_pos_x - 10'd235)
+								begin
+									left_pos_x_r <= current_pos_x - 10'd235;
+									left_pos_y_r <= current_pos_y;
+								end
+							else if((left_pos_x_r == current_pos_x - 10'd235) && (left_pos_y_r < current_pos_y))
+								begin
+									left_pos_x_r <= current_pos_x - 10'd235;
+									left_pos_y_r <= current_pos_y;
+								end
+							else
+								begin
+									left_pos_x_r <= left_pos_x_r;
+									left_pos_y_r <= left_pos_y_r;
+								end
+						end
+					else if ((current_pos_x <= 10'd234)&&(current_pos_y > 10'd1))
+						begin																									
+							////left////////////
+							if (left_pos_x_r > current_pos_x + 10'd405)
+								begin
+									left_pos_x_r <= current_pos_x + 10'd405;
+									left_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else if((left_pos_x_r == current_pos_x + 10'd405) && (left_pos_y_r < current_pos_y - 10'd1))
+								begin
+									left_pos_x_r <= current_pos_x + 10'd405;
+									left_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else
+								begin
+									left_pos_x_r <= left_pos_x_r;
+									left_pos_y_r <= left_pos_y_r;
+								end
+						end
+					else
+						begin
+							left_pos_x_r <= left_pos_x_r;
+							left_pos_y_r <= left_pos_y_r;
+						end
+				end
+			else
+				begin
+					left_pos_x_r <= left_pos_x_r;
+					left_pos_y_r <= left_pos_y_r;				
+				end
+		end
+end
+assign	left_pos_x = left_pos_x_r;
+assign	left_pos_y = left_pos_y_r;	
+
+//////////////////////////////////////////////////////////////////////////////////
+reg [9:0]	right_pos_x_r = 10'd0;
+reg [9:0]	right_pos_y_r = 10'd479;	
+
+always@(posedge clk)
+begin
+	if(wr_load_flag == 1)
+		begin
+			right_pos_x_r <= 10'd0;
+			right_pos_y_r <= 10'd479;		
+		end
+	else
+		begin
+			if((uart_enw == 1'b1) && (rx_data == 1'b1))
+				begin
+					if ((current_pos_x > 10'd234)&&(current_pos_y > 10'd1))
+						begin	
+							////right//////////
+							if (right_pos_x_r < current_pos_x - 10'd235)
+								begin
+									right_pos_x_r <= current_pos_x - 10'd235;
+									right_pos_y_r <= current_pos_y;
+								end
+							else if((right_pos_x_r == current_pos_x - 10'd235) && (right_pos_y_r > current_pos_y))
+								begin
+									right_pos_x_r <= current_pos_x - 10'd235;
+									right_pos_y_r <= current_pos_y;
+								end
+							else
+								begin
+									right_pos_x_r <= right_pos_x_r;
+									right_pos_y_r <= right_pos_y_r;
+								end
+						end
+					else if ((current_pos_x <= 10'd234)&&(current_pos_y > 10'd1))
+						begin
+							////right//////////
+							if (right_pos_x_r < current_pos_x + 10'd405)
+								begin
+									right_pos_x_r <= current_pos_x + 10'd405;
+									right_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else if((right_pos_x_r == current_pos_x + 10'd405) && (right_pos_y_r > current_pos_y - 10'd1))
+								begin
+									right_pos_x_r <= current_pos_x + 10'd405;
+									right_pos_y_r <= current_pos_y - 10'd1;
+								end
+							else
+								begin
+									right_pos_x_r <= right_pos_x_r;
+									right_pos_y_r <= right_pos_y_r;
+								end	
+						end
+					else
+						begin
+							right_pos_x_r <= right_pos_x_r;
+							right_pos_y_r <= right_pos_y_r;
+						end	
+				end
+			else
+				begin
+					right_pos_x_r <= right_pos_x_r;
+					right_pos_y_r <= right_pos_y_r;					
+				end
+		end
+end
+assign	right_pos_x = right_pos_x_r;
+assign	right_pos_y = right_pos_y_r;	
+
+
+ 
+reg [11:0] centre_pos_x_r;
+reg [11:0] centre_pos_y_r;
+always@(posedge clk)
+begin
+	centre_pos_x_r <= top_pos_x_r + bottom_pos_x_r + left_pos_x_r + right_pos_x_r;
+	centre_pos_y_r <= top_pos_y_r + bottom_pos_y_r + left_pos_y_r + right_pos_y_r;
+end
+assign	centre_pos_x = centre_pos_x_r;
+assign	centre_pos_y = centre_pos_y_r;	
+
+reg [9:0] angle_x_r;
+reg [9:0] angle_y_r;
+reg chieu_xoay_r;
+always@(posedge clk)
+begin
+	if ((left_pos_y_r - top_pos_y_r) < (top_pos_x_r - left_pos_x_r))
+		begin
+			angle_x_r <= top_pos_x_r - left_pos_x_r;
+			angle_y_r <= left_pos_y_r - top_pos_y_r;
+			chieu_xoay_r <= 1'b1;
+		end
+	else
+		begin
+			angle_x_r <= right_pos_x_r - top_pos_x_r;
+			angle_y_r <= right_pos_y_r - top_pos_y_r;
+			chieu_xoay_r <= 1'b0;
+		end
+end
+assign	angle_x = angle_x_r;
+assign	angle_y = angle_y_r;
+assign	chieu_xoay = chieu_xoay_r;	
+	
+
+endmodule
